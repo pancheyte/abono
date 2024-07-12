@@ -1,0 +1,40 @@
+
+body
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 25px;
+    background-color: antiquewhite;
+    color: black;
+    line-height: 1.6;
+    padding: 0;
+    margin: 0;
+}
+.x
+{
+    text-align: center;
+    float: left;
+}
+.gato{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: aquamarine;
+    text-align: center;
+}
+li a{
+    display:block;
+    color: white;
+    text-align:center;
+    padding: 15px;
+    text-decoration: none;
+}
+li a:hover{
+    background-color: rgb(16, 153, 153);
+
+}
+section{
+    background: url(img/a.jpg)no-repeat;
+    background-size: cover;
+    background-position: center;
+}
